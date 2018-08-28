@@ -14,9 +14,9 @@ CREATE TABLE products(
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES
  ('Laptop', 'Electronics', 1000.00, 1),
- ('Hammer', 'Hardware', 5, 10),
+ ('Hammer', 'Hardware', 15, 10),
  ('Toilet Paper', 'Toiletries', 5, 50),
- ('Apple', 'Food', 10, 100);
+ ('Apple', 'Food', 1, 100);
 
 CREATE TABLE departments(
  department_id INT NOT NULL AUTO_INCREMENT,

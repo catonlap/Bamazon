@@ -4,7 +4,7 @@ An item tracker linked to a MYSQL Database. The app takes in orders from custome
 
 - - -
 
-## Customer
+### Customer
 ![Alt Text](assets/customer.gif)
 
 1. Create a MySQL Database called `bamazon`.

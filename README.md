@@ -1,11 +1,11 @@
 # Node.js & MySQL
 
 ### Customer
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-### Manager
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-### Supervisor
 ![Alt Text](assets/customer.gif)
+### Manager
+![Alt Text](assets/manager.gif)
+### Supervisor
+![Alt Text](assets/supervisor.gif)
 
 ## Overview
 

@@ -2,6 +2,8 @@
 
 An item tracker linked to a MYSQL Database. The app takes in orders from customers and depletes stock from the store's inventory. It also tracks product sales across a store's departments and then provides a summary of the highest-grossing departments in the store.
 
+
+
 ## Customer
 ![Alt Text](assets/customer.gif)
 
@@ -63,7 +65,7 @@ An item tracker linked to a MYSQL Database. The app takes in orders from custome
 
   * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
-
+- - -
 
 
 ## Supervisor

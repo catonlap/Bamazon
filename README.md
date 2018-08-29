@@ -1,10 +1,9 @@
 # Node.js & MySQL
 
-### Overview
-
 An Amazon-like storefront with MySQL. The app takse in orders from customers and deplete stock from the store's inventory and tracks product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
 ## Customer
+![Alt Text](assets/customer.gif)
 
 1. Create a MySQL Database called `bamazon`.
 
@@ -39,11 +38,10 @@ An Amazon-like storefront with MySQL. The app takse in orders from customers and
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
 
-![Alt Text](assets/customer.gif)
-
 
 
 ## Manager
+![Alt Text](assets/manager.gif)
 
 * Create a new Node application called `bamazonManager.js`. Running this application will:
 
@@ -65,11 +63,11 @@ An Amazon-like storefront with MySQL. The app takse in orders from customers and
 
   * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
-![Alt Text](assets/manager.gif)
 
 
 
 ## Supervisor
+![Alt Text](assets/supervisor.gif)
 
 1. Create a new MySQL table called `departments`. Your table should include the following columns:
 
@@ -99,5 +97,3 @@ An Amazon-like storefront with MySQL. The app takse in orders from customers and
 5. The `total_profit` column should be calculated on the fly using the difference between `over_head_costs` and `product_sales`. `total_profit` should not be stored in any database. You should use a custom alias.
 
 6. If you can't get the table to display properly after a few hours, then feel free to go back and just add `total_profit` to the `departments` table.
-
-![Alt Text](assets/supervisor.gif)

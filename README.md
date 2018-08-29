@@ -3,7 +3,7 @@
 ### Customer
 ![Alt Text](assets/customer.gif)
 ### Manager
-![Alt Text](assets/.gif)
+![Alt Text](assets/manager.gif)
 ### Supervisor
 ![Alt Text](assets/supervisor.gif)
 

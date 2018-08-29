@@ -2,11 +2,11 @@
 
 ## DEMO
 
-# Customer
+### Customer
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-# Manager
+### Manager
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-# Supervisor
+### Supervisor
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Overview

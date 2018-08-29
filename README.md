@@ -4,7 +4,7 @@ An item tracker linked to a MYSQL Database. The app takes in orders from custome
 
 - - -
 
-### Customer
+# Customer
 ![Alt Text](assets/customer.gif)
 
 1. Create a MySQL Database called `bamazon`.
@@ -40,9 +40,9 @@ An item tracker linked to a MYSQL Database. The app takes in orders from custome
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
 
+- - -
 
-
-## Manager
+# Manager
 ![Alt Text](assets/manager.gif)
 
 * Create a new Node application called `bamazonManager.js`. Running this application will:
@@ -65,9 +65,9 @@ An item tracker linked to a MYSQL Database. The app takes in orders from custome
 
   * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
--
--
-## Supervisor
+- - -
+
+# Supervisor
 ![Alt Text](assets/supervisor.gif)
 
 1. Create a new MySQL table called `departments`. Your table should include the following columns:

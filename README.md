@@ -1,10 +1,10 @@
 # Node.js & MySQL
 
-## Overview
+### Overview
 
 An Amazon-like storefront with MySQL. The app takse in orders from customers and deplete stock from the store's inventory and tracks product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
-### Customer
+## Customer
 
 1. Create a MySQL Database called `bamazon`.
 
@@ -43,7 +43,7 @@ An Amazon-like storefront with MySQL. The app takse in orders from customers and
 
 
 
-### Manager
+## Manager
 
 * Create a new Node application called `bamazonManager.js`. Running this application will:
 
@@ -69,7 +69,7 @@ An Amazon-like storefront with MySQL. The app takse in orders from customers and
 
 
 
-### Supervisor
+## Supervisor
 
 1. Create a new MySQL table called `departments`. Your table should include the following columns:
 

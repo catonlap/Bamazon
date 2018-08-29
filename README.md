@@ -1,7 +1,5 @@
 # Node.js & MySQL
 
-## DEMO
-
 ### Customer
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ### Manager
